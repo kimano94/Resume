@@ -46,8 +46,7 @@ table {
 
 td {
   padding-right: 20px;
-
-  border: 1px solid black;
+  border: 1px solid;
 }
 
 label {
