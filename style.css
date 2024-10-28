@@ -90,6 +90,6 @@ label {
   list-style: none;
 }
 
-.stol {
+div.stol {
   display: flex;
 }
